@@ -1,0 +1,2 @@
+// run the page in this format     name of website > pages.json     to get all the crawls in a json file
+// just add [ at the front and ] and the ending link, then reload pages.json on the browser.
