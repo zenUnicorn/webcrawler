@@ -1,4 +1,4 @@
-# webcrawler
+# Webcrawler
 A webcrawler which crawls a web page for `titles`, `keywords`, `description` and `urls`.
 
 The web crawler works basically by passing url to the start variable and it sends back all the links and url on the webpage to the `pages.json`
